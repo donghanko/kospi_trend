@@ -1,2 +1,2 @@
 # kospi_trend-
-In this work 
+In this work $x_t$
