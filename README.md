@@ -9,4 +9,6 @@ $$ \frac{dX_t}{X_t} = \mu_t dt + \sigma_t dW_t,$$
 
 we wish our returns to be distributed near the $\mu_t$ in order to grant for the construction of the momentum. Since the returns of stock prices are assumed to be disturbed by the volatility terms, we need a filtering process to build a forecasting model of the trend. The filtering method of forecasting model we will utilize in this work is selected to be a Kalman Filter.
 
-The follwing is the process of Kalman Filter: 
+The Kalman Filter requires two prerequisites equations: [1] 
+
+
