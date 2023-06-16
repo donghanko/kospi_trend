@@ -7,4 +7,4 @@ Based on Geometric Brownian Motion (GBM) :
 
 $$ \frac{dX_t}{X_t} = \mu_t dt + \sigma_t dW_t,$$
 
-we
+we wish our returns to be distributed near the $\mu_t$ in order to grant for the construction of the momentum. 
