@@ -11,4 +11,5 @@ we wish our returns to be distributed near the $\mu_t$ in order to grant for the
 
 The Kalman Filter requires two prerequisites equations: [1] the transition equation and [2] the measurement equation. Within this filtering method, we build a trend forecasting model based on one-Dimensional Convolutional Neural Network (1D-CNN) model. 
 
+We compare 1D-CNN prediction model with Kalman Filtered time series as input data with other neural network and settings in terms of time series metrics. 
 
